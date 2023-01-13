@@ -2,9 +2,7 @@
 
 Buscando cep por RETROFIT, ele preencge automaticamente o Cep - API
 
-<img src="https://user-images.githubusercontent.com/72177982/212326648-7cd92883-e2d3-4d9d-be16-0cf58b361a46.png" width="25%">
-<img src="https://user-images.githubusercontent.com/72177982/212326655-e4ea8cde-1172-454e-b40f-985eb1aa098a.png" width="25%">
-<img src="https://user-images.githubusercontent.com/72177982/212326666-83495c94-6a02-4c0a-9ff4-3e0652541042.png" width="25%">
+<img src="https://user-images.githubusercontent.com/72177982/212326648-7cd92883-e2d3-4d9d-be16-0cf58b361a46.png" width="25%"> <img src="https://user-images.githubusercontent.com/72177982/212326655-e4ea8cde-1172-454e-b40f-985eb1aa098a.png" width="25%"> <img src="https://user-images.githubusercontent.com/72177982/212326666-83495c94-6a02-4c0a-9ff4-3e0652541042.png" width="25%">
 
 MainActivity
 <img src="https://user-images.githubusercontent.com/72177982/212326681-54a0d063-8b43-4859-b8c0-869560f69c73.png" width="95%">
